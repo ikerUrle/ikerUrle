@@ -1,6 +1,6 @@
 # Hi there, I'm Iker :wave:!
 
-![ikerUrle header image](/header_image.png)
+![ikerUrle header image](https://github.com/ikerUrle/ikerUrle/blob/master/header_image.png)
 
 I'm a Sofware Engineer who is passionate about FOSS projects, currently looking to collaborate!! 
 I enjoy working with Python and Web Technologies.
