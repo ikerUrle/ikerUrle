@@ -1,10 +1,11 @@
+# Hi there, I'm Iker :wave:!
+
 ![ikerUrle header image](/header_image.png)
 
-### Hi there!
+I'm a Sofware Engineer who is passionate about FOSS projects, currently looking to collaborate!! 
+I enjoy working with Python and I am learning FullStack Development right now!
 
-I'm Iker Urlezaga currently learning FullStack Development and looking to collaborate on FOSS projects!!
+## Contact me:
 
-### Contact me:
-
-[twitter](https://twitter.com/ikerUrle)
-[linkedin](https://www.linkedin.com/in/ikerurle/)
+- Find me on [Twitter :bird:](https://twitter.com/ikerUrle)
+- Connect with me on [LinkedIn :briefcase:](https://www.linkedin.com/in/ikerurle/)
