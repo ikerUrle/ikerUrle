@@ -5,7 +5,5 @@
 
 #### Learning FullStack Development right now and thinking whether starting _**#100daysOfCode**_ was a good idea. 
 
-
-### Find me on [Twitter](https://twitter.com/ikerUrle) or Let's connect on [LinkedIn :briefcase:](https://www.linkedin.com/in/ikerurle/)
-
+## Find me on [Twitter](https://twitter.com/ikerUrle) or Let's connect on [LinkedIn :briefcase:](https://www.linkedin.com/in/ikerurle/)
 ![ikerUrle header image](https://github.com/ikerUrle/ikerUrle/blob/master/header_image.png)
