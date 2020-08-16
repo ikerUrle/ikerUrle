@@ -3,7 +3,9 @@
 ![ikerUrle header image](/header_image.png)
 
 I'm a Sofware Engineer who is passionate about FOSS projects, currently looking to collaborate!! 
-I enjoy working with Python and I am learning FullStack Development right now!
+I enjoy working with Python and Web Technologies.
+
+Learning FullStack Development right now and thinking whether starting #100daysOfCode is a good idea. 
 
 ## Contact me:
 
