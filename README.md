@@ -1,6 +1,6 @@
 ## Hi there! I'm Iker :wave:
 
-###### About me :thought_balloon: 
+#### About me :thought_balloon: 
  I'm a **Sofware Engineer** who is passionate about **FOSS projects**, currently looking to collaborate!! I enjoy working with **Python** and **Web Technologies** in general.
 
  Learning **FullStack Development** right now and thinking whether starting _**#100daysOfCode**_ was a good idea. 
