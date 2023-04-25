@@ -7,4 +7,4 @@
 
 ## Find me on [Twitter](https://twitter.com/ikerUrle) or Let's connect on [LinkedIn](https://www.linkedin.com/in/ikerurle/)!
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
-![ikerUrle header image](https://github.com/ikerUrle/ikerUrle/blob/master/header.png)
+
